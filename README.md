@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Yuvy05/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Yuvy05/DSA/tree/main/0155-min-stack/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Yuvy05/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Yuvy05/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
