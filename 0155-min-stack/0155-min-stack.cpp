@@ -1,40 +1,37 @@
 class MinStack {
 public:
-    long long int mn = INT_MAX ;
-    stack<long long int>s ;
+    stack<long long>st ;
+    long long mn ;
     MinStack() {
         
     }
     
     void push(int value) {
-        if(s.empty()){
+        if(st.empty()){
             mn = value ;
-            s.push(value);
+            st.push(value) ;
         }
-        else if(value >= mn) s.push(value) ;
-        else{
-            long long int newval = 2LL*value - mn ;
+        else if(value < mn){
+            long long newval = 2LL*value - mn ;
+            st.push(newval) ;
             mn = value ;
-            s.push(newval) ;
         }
+        else st.push(value) ;
     }
     
     void pop() {
-        if(s.empty()) return ;
-        if(mn > s.top()){
-            long long int x = s.top() ;
-            s.pop() ;
-            mn= 2*mn - x ;
+        if(st.top() < mn){
+            mn = 2LL*mn - st.top() ;
+            st.pop() ;
         }
-        else{
-            s.pop() ;
-        }
+        else st.pop() ;
     }
     
     int top() {
-        if (s.empty()) return INT_MAX;
-        if(s.top() < mn) return mn ;
-        else return s.top() ;
+        if(st.top() < mn){
+            return mn ;
+        }
+        return st.top() ;
     }
     
     int getMin() {
