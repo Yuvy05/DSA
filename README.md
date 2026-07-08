@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvy05/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Yuvy05/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Yuvy05/DSA/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Yuvy05/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Yuvy05/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 <!---LeetCode Topics End-->
