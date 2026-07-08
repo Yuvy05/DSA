@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yuvy05/DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Yuvy05/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0036-valid-sudoku](https://github.com/Yuvy05/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvy05/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -137,4 +138,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Yuvy05/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yuvy05/DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yuvy05/DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
