@@ -16,10 +16,10 @@ public:
         int lh = dfs(root -> left) ;
         int rh = dfs(root -> right) ;
         if(lh == -1 or rh == -1) return -1 ;
-        if(abs(lh - rh) > 1) return -1 ;
+        if(abs(lh-rh) > 1) return -1 ;
         return 1+max(lh,rh) ;
     }
     bool isBalanced(TreeNode* root) {
-        return (dfs(root) == -1) ? false : true ;
+        return(dfs(root) == -1 ? false : true ) ;
     }
 };
