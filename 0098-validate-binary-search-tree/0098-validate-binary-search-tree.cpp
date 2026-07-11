@@ -14,7 +14,7 @@ public:
     bool dfs(TreeNode *root , long long mx , long long mn){
         if(root == NULL) return true ;
         if(root -> val <= mn or root -> val >= mx) return false ;
-        return (dfs(root -> left , min(mx , (long long)root -> val), mn) and dfs(root -> right , mx, max(mn , (long long)root -> val))) ;
+        return dfs(root -> left , root -> val , mn) and dfs(root -> right , mx , root -> val) ;
     }
     bool isValidBST(TreeNode* root) {
         return dfs(root , LLONG_MAX , LLONG_MIN) ;
