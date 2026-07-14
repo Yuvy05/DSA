@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yuvy05/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvy05/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Yuvy05/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Yuvy05/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvy05/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Yuvy05/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0130-surrounded-regions](https://github.com/Yuvy05/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yuvy05/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Yuvy05/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Yuvy05/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
 ## Math
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvy05/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/Yuvy05/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Yuvy05/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Yuvy05/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -166,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Yuvy05/DSA/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yuvy05/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/Yuvy05/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Yuvy05/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Yuvy05/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
