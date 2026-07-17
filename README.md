@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Yuvy05/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Yuvy05/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/Yuvy05/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/Yuvy05/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Yuvy05/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/Yuvy05/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yuvy05/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yuvy05/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0684-redundant-connection](https://github.com/Yuvy05/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Yuvy05/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yuvy05/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Yuvy05/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Yuvy05/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Yuvy05/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/Yuvy05/DSA/tree/main/0684-redundant-connection/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
