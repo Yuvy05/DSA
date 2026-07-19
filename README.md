@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/Yuvy05/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/Yuvy05/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0853-car-fleet](https://github.com/Yuvy05/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0994-rotting-oranges](https://github.com/Yuvy05/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvy05/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvy05/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Yuvy05/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
