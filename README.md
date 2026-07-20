@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Yuvy05/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvy05/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0198-house-robber](https://github.com/Yuvy05/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Yuvy05/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Yuvy05/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvy05/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvy05/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
+| [0198-house-robber](https://github.com/Yuvy05/DSA/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Yuvy05/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Divide and Conquer
