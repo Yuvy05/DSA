@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Yuvy05/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/Yuvy05/DSA/tree/main/0127-word-ladder/) | Hard |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvy05/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvy05/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Yuvy05/DSA/tree/main/0011-container-with-most-water/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
