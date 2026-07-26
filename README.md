@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/Yuvy05/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Yuvy05/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Yuvy05/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/Yuvy05/DSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yuvy05/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yuvy05/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Yuvy05/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yuvy05/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/Yuvy05/DSA/tree/main/0322-coin-change/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Yuvy05/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Yuvy05/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Yuvy05/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0322-coin-change](https://github.com/Yuvy05/DSA/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yuvy05/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/Yuvy05/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
