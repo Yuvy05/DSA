@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Yuvy05/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvy05/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Yuvy05/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Yuvy05/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yuvy05/DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvy05/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvy05/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Yuvy05/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Yuvy05/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yuvy05/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Yuvy05/DSA/tree/main/0322-coin-change/) | Medium |
