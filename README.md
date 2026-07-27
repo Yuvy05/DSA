@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Yuvy05/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Yuvy05/DSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yuvy05/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Yuvy05/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yuvy05/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/Yuvy05/DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/Yuvy05/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvy05/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Yuvy05/DSA/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Yuvy05/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Yuvy05/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Yuvy05/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
