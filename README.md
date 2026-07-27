@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0062-unique-paths](https://github.com/Yuvy05/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Yuvy05/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvy05/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Yuvy05/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvy05/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Monotonic Stack
@@ -277,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Yuvy05/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Yuvy05/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Yuvy05/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
