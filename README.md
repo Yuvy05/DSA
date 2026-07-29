@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Yuvy05/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Yuvy05/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yuvy05/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0494-target-sum](https://github.com/Yuvy05/DSA/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Yuvy05/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/Yuvy05/DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yuvy05/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Yuvy05/DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Yuvy05/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Yuvy05/DSA/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Yuvy05/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Yuvy05/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -296,4 +298,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Yuvy05/DSA/tree/main/0062-unique-paths/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Yuvy05/DSA/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
