@@ -15,7 +15,7 @@ public:
         return dp[idx][amount] =  pick+notpick ;
     }
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>>dp(coins.size()+1 , vector<int>(amount+1 , -1)) ;
+        vector<vector<int>>dp(coins.size() , vector<int>(amount+1 , -1)) ;
         return rec(0,amount , coins ,dp) ;
     }
 };
