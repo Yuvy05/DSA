@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Yuvy05/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Yuvy05/DSA/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Yuvy05/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0127-word-ladder](https://github.com/Yuvy05/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/Yuvy05/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Yuvy05/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Yuvy05/DSA/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Yuvy05/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvy05/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvy05/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yuvy05/DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
