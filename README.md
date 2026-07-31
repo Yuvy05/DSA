@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Yuvy05/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/Yuvy05/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Yuvy05/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Yuvy05/DSA/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Yuvy05/DSA/tree/main/0115-distinct-subsequences/) | Hard |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/Yuvy05/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Yuvy05/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Yuvy05/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Yuvy05/DSA/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Yuvy05/DSA/tree/main/0115-distinct-subsequences/) | Hard |
