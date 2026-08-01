@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Yuvy05/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Yuvy05/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Yuvy05/DSA/tree/main/0072-edit-distance/) | Medium |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Yuvy05/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0062-unique-paths](https://github.com/Yuvy05/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Yuvy05/DSA/tree/main/0072-edit-distance/) | Medium |
@@ -318,4 +320,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/Yuvy05/DSA/tree/main/0494-target-sum/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Yuvy05/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
