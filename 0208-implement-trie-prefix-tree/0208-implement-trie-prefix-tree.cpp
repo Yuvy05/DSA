@@ -48,8 +48,8 @@ public:
             }
             temp =temp ->get(word[i]) ;
         }
-        return temp -> flag ;
-        //return node -> isEnd() ;
+        //return temp -> flag ;
+        return temp -> isEnd() ;
     }
     
     bool startsWith(string prefix) {
