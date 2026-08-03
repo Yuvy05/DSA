@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yuvy05/DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Yuvy05/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Yuvy05/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/Yuvy05/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Yuvy05/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Yuvy05/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Yuvy05/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Yuvy05/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Yuvy05/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Yuvy05/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvy05/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Yuvy05/DSA/tree/main/0647-palindromic-substrings/) | Medium |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Yuvy05/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0130-surrounded-regions](https://github.com/Yuvy05/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Yuvy05/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Yuvy05/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yuvy05/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Yuvy05/DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Yuvy05/DSA/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Yuvy05/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Yuvy05/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Yuvy05/DSA/tree/main/0212-word-search-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0212-word-search-ii](https://github.com/Yuvy05/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0494-target-sum](https://github.com/Yuvy05/DSA/tree/main/0494-target-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
