@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Yuvy05/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0036-valid-sudoku](https://github.com/Yuvy05/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/Yuvy05/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/Yuvy05/DSA/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/Yuvy05/DSA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvy05/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Yuvy05/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/Yuvy05/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Yuvy05/DSA/tree/main/0078-subsets/) | Medium |
 | [0212-word-search-ii](https://github.com/Yuvy05/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0494-target-sum](https://github.com/Yuvy05/DSA/tree/main/0494-target-sum/) | Medium |
