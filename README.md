@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Yuvy05/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Yuvy05/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/Yuvy05/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yuvy05/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Yuvy05/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Yuvy05/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvy05/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yuvy05/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Yuvy05/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Yuvy05/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Yuvy05/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -144,11 +146,13 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yuvy05/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yuvy05/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yuvy05/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yuvy05/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yuvy05/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yuvy05/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Yuvy05/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Yuvy05/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -164,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yuvy05/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yuvy05/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yuvy05/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Prefix Sum
