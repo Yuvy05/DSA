@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/Yuvy05/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Yuvy05/DSA/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/Yuvy05/DSA/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Yuvy05/DSA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvy05/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yuvy05/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Yuvy05/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+| [0055-jump-game](https://github.com/Yuvy05/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Yuvy05/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Yuvy05/DSA/tree/main/0072-edit-distance/) | Medium |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvy05/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Yuvy05/DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvy05/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/Yuvy05/DSA/tree/main/0621-task-scheduler/) | Medium |
 ## String Matching
