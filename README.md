@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Yuvy05/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Yuvy05/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Yuvy05/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Yuvy05/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Yuvy05/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Yuvy05/DSA/tree/main/0091-decode-ways/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Yuvy05/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/Yuvy05/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/Yuvy05/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Yuvy05/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Yuvy05/DSA/tree/main/0070-climbing-stairs/) | Easy |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Yuvy05/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Yuvy05/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Yuvy05/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Yuvy05/DSA/tree/main/0078-subsets/) | Medium |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvy05/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Yuvy05/DSA/tree/main/0022-generate-parentheses/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
