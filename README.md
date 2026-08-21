@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yuvy05/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Yuvy05/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/Yuvy05/DSA/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/Yuvy05/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/Yuvy05/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Yuvy05/DSA/tree/main/0046-permutations/) | Medium |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvy05/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Yuvy05/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/Yuvy05/DSA/tree/main/0027-remove-element/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Yuvy05/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
